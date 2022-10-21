@@ -1,14 +1,14 @@
 {
   "name": "test",
   "main": "./lib/test",
-  "version": "0.0.0",
+  "version": "3.0.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "test:toggle"
   },
-  "repository": "https://github.com/atom/test",
+  "repository": "https://github.com/comsc107/test",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
